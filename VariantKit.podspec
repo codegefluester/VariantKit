@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "VariantKit"
   s.version      = "0.0.1"
-  s.summary      = "A short description of VariantKit."
+  s.summary      = "A small A/B Test Framework for iOS"
   s.homepage     = "http://github.com/codegefluester/VariantKit"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "codegefluester" => "bjoern@codegefluester.de" }
